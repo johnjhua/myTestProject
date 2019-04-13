@@ -1,1 +1,4 @@
 new file in master
+ok, this a new line 1
+ok, this is another line
+ok, third line
